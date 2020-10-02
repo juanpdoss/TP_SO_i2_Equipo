@@ -1,0 +1,9 @@
+a- Seguimos los siguientes pasos:
+git remote add upstream https://github.com/juanpdoss/TP_SO_i2_Equipo.git
+git fetch upstream
+git checkout master
+git rebase upstream/master
+
+Luego pusheamos para subir a git
+
+B- Si, puede.

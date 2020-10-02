@@ -7,3 +7,7 @@ git rebase upstream/master
 Luego pusheamos para subir a git
 
 B- Si, puede.
+
+C- Si, Gama puede actualizar su fork al estado de ALFA.
+
+D- Los datos de mi repositorio se pierden.
